@@ -1,5 +1,5 @@
 ### Checklist
-- [ ] Add Reviewers (see [Authors](https://github.com/oharastream/ohara#ohara-team))
+- [ ] Add Reviewers (see [Team of is-land/project](https://github.com/orgs/is-land/teams/project/members))
 - [ ] Add Assignees (of course, you are the assignee by default!)
 - [ ] Link to an JIRA issue URL.
 - [ ] Add unit tests (or please explain why this PR is not worth having new tests)
